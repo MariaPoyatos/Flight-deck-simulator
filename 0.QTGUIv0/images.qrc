@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/broken-glass.png</file>
+        <file>images/EngineButton.png</file>
+        <file>images/EngineButtonStart.png</file>
+        <file>images/Map.png</file>
+        <file>images/planeTop2.png</file>
+        <file>images/Broken-Glass-PNG-Image-Transparent.png</file>
+        <file>images/fondo blanco.png</file>
+        <file>images/fondo negro.png</file>
+        <file>images/modo dia1.png</file>
+        <file>images/modo noche1.png</file>
+    </qresource>
+</RCC>
